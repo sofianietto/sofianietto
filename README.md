@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mí...</h3>
+<h3 align="center">👩‍💻  Sobre mí...</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y herramientas</h3>
+<h3 align="center">🛠 Lenguajes y herramientas</h3>
 
 ###
 
@@ -58,6 +58,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sofianietto/sofianietto/output/snake.svg" alt="Snake animation" />
-
-###
