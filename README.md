@@ -12,17 +12,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sofianietto.sofianietto&"  />
-</div>
-
-###
-
 <h3 align="center">👩‍💻  Sobre mí...</h3>
 
 ###
 
-<p align="left">- 📍Itapúa, Paraguay.<br>-✨Becada de Programando Paraguay.<br>- 🔭 Desarrolladora FullStack.<br>- 📚 Actualmente estudiando Python...</p>
+<p align="center">- 📍Itapúa, Paraguay.<br>-✨Becada de Programando Paraguay.<br>- 🔭 Desarrolladora FullStack.<br>- 📚 Actualmente estudiando Python...</p>
 
 ###
 
